@@ -1,18 +1,18 @@
 
 > このページを開く [https://ok-kun318.github.io/hand-side/](https://ok-kun318.github.io/hand-side/)
 
-## 拡張機能として使用
+~~## 拡張機能として使用~~ できません
 
-このリポジトリは、MakeCode で **拡張機能** として追加できます。
+~~このリポジトリは、MakeCode で **拡張機能** として追加できます。~~
 
-* [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
-* **新しいプロジェクト** をクリックしてください
-* ギアボタンメニューの中にある **拡張機能** をクリックしてください
-* **https://github.com/ok-kun318/hand-side** を検索してインポートします。
+* ~~[https://makecode.microbit.org/](https://makecode.microbit.org/) を開く~~
+* ~~**新しいプロジェクト** をクリックしてください~~
+* ~~ギアボタンメニューの中にある **拡張機能** をクリックしてください~~
+* ~~**https://github.com/ok-kun318/hand-side** を検索してインポートします。~~
 
-## このプロジェクトを編集します
+## このプロジェクトを読み込みます
 
-MakeCode でこのリポジトリを編集します。
+MakeCode でこのリポジトリを読み込みます。
 
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
 * **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
