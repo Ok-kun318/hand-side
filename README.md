@@ -20,10 +20,10 @@ MakeCode でこのリポジトリを読み込みます。
 
 # 使い方
 > [!IMPORTANT]
-> このレポジトリは　[seat-side](https://github.com/Ok-kun318/seat-side/)と併用します
+> このレポジトリは[seat-side](https://github.com/Ok-kun318/seat-side/)と併用します
 
 ### 1. install
-* hexファイルを[ここから](https://github.com/Ok-kun318/hand-side/releases/download/v1.0.0/microbit-hand-side-v1.0.0.hex).ダウンロードします
+* hexファイルを[ここから](https://github.com/Ok-kun318/hand-side/releases/download/v1.0.1/microbit-hand-side-v1.0.1.hex).ダウンロードします
 * micro:bitに書き込む😸
 > [!WARNING]
 >この[プロジェクト](https://github.com/Ok-kun318/seat-side)も同じように書き込みをしてください
