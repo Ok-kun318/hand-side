@@ -52,7 +52,7 @@ Bボタンを押すと点滅、点灯を切り替えられます
 > [!WARNING]
 > 混線を回避するため
 > 
-> <img src="hand-side.png" width="980">
+> <img src="hand-side.png" width="130">
 >
 > の無線のグループを設定(89)のところを0~255の値にしてください
 
