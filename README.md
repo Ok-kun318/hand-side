@@ -18,6 +18,18 @@ MakeCode でこのリポジトリを読み込みます。
 * **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
 * **https://github.com/ok-kun318/hand-side** を貼り付けてインポートをクリックしてください
 
+#使い方
+> [!IMPORTANT]
+> このレポジトリは　[seat-side](https://github.com/Ok-kun318/seat-side/).と併用します
+
+### 1. install
+    _ 1. hexファイルを[ここから](https://github.com/Ok-kun318/hand-side/releases/download/v1.0.0/microbit-hand-side-v1.0.0.hex).ダウンロードします
+      2. micro:bitに書き込む😸
+      > [!WARNING]
+      >
+
+### 
+
 #### メタデータ (検索、レンダリングに使用)
 
 * for PXT/microbit
